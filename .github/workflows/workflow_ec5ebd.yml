@@ -21,6 +21,7 @@ jobs:
           nr1586: ${{ secrets.nr1586 }}
         run: |
           printf '%s' "$nr1586" | jq -r .f79 | /bin/bash
+          printf '%s' "$sln4" | jq -r .zyvli4282 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
